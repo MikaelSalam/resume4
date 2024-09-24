@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HTML</title>
+</head>
+<body>
+
+<h1>My Resume</h1>
+<p>I am currently a student at the University Of Belize.</p>
+<p>I am doing Associates In IT.</p>
+<a src = "https://doit.ub.edu.bz/">Visit IT at UB.edu.bz!</a>
+
+
+</body>
+</html>

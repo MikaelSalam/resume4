@@ -1,0 +1,23 @@
+body{
+    background-color:Black;
+}
+h1{
+    color:purple;
+    text-shadow:3px 3px yellow;
+    text-align:center;
+}
+p{
+    color:White;
+    
+}
+h2{
+    color:Orange;
+    text-shadow:1px 1px yellow;
+}
+table{
+    color:purple;
+    text-shadow:0px 0px yellow;
+    border:solid;
+    border-color:Purple;
+}
+
